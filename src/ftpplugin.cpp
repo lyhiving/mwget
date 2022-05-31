@@ -19,7 +19,7 @@
 
 
 #include <iostream>
-
+#include <cstring>
 #include "ftpplugin.h"
 #include "ftp.h"
 #include "macro.h"
